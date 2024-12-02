@@ -1,7 +1,7 @@
 # Hi there, I'm Sara Gorule! 👋
 
 🎓 **Computer Science Engineering Student**  
-🚀 **MERN Stack Developer** | Dev Coordinator @ Microsoft Learn Student Chapter (MLSC)  
+🚀 **MERN Stack Developer** | Dev Coordinator @ Microsoft Learn Student Club (MLSC)  
 🌟 **Passionate about tech, learning, and building impactful projects** 
 
 
