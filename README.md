@@ -10,8 +10,6 @@
 
 - 🎓 Computer Science Engineering Student
 - 💻 Learning MERN Stack & AI/ML
-- 🚀 Building SocialIQ and AI projects
-- 📚 Preparing for GATE CS
 
 </td>
 
